@@ -1,8 +1,8 @@
 # Acerca de mí:
 - Imágen
-- Nombre Completo
-- Email
-- Usuario de Github
+- Nombre Completo: Joel Palacios Fierro
+- Email: joelpaf@hotmail.com
+- Usuario de Github: joelpaf
 
 # Formación Académica
 
